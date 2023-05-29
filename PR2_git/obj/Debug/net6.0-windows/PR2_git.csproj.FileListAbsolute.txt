@@ -1,0 +1,17 @@
+C:\Users\Валерия\Desktop\ПучРыс\PR2_git\PR2_git\bin\Debug\net6.0-windows\PR2_git.exe
+C:\Users\Валерия\Desktop\ПучРыс\PR2_git\PR2_git\bin\Debug\net6.0-windows\PR2_git.deps.json
+C:\Users\Валерия\Desktop\ПучРыс\PR2_git\PR2_git\bin\Debug\net6.0-windows\PR2_git.runtimeconfig.json
+C:\Users\Валерия\Desktop\ПучРыс\PR2_git\PR2_git\bin\Debug\net6.0-windows\PR2_git.dll
+C:\Users\Валерия\Desktop\ПучРыс\PR2_git\PR2_git\bin\Debug\net6.0-windows\PR2_git.pdb
+C:\Users\Валерия\Desktop\ПучРыс\PR2_git\PR2_git\obj\Debug\net6.0-windows\PR2_git.csproj.AssemblyReference.cache
+C:\Users\Валерия\Desktop\ПучРыс\PR2_git\PR2_git\obj\Debug\net6.0-windows\PR2_git.Form1.resources
+C:\Users\Валерия\Desktop\ПучРыс\PR2_git\PR2_git\obj\Debug\net6.0-windows\PR2_git.csproj.GenerateResource.cache
+C:\Users\Валерия\Desktop\ПучРыс\PR2_git\PR2_git\obj\Debug\net6.0-windows\PR2_git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Валерия\Desktop\ПучРыс\PR2_git\PR2_git\obj\Debug\net6.0-windows\PR2_git.AssemblyInfoInputs.cache
+C:\Users\Валерия\Desktop\ПучРыс\PR2_git\PR2_git\obj\Debug\net6.0-windows\PR2_git.AssemblyInfo.cs
+C:\Users\Валерия\Desktop\ПучРыс\PR2_git\PR2_git\obj\Debug\net6.0-windows\PR2_git.csproj.CoreCompileInputs.cache
+C:\Users\Валерия\Desktop\ПучРыс\PR2_git\PR2_git\obj\Debug\net6.0-windows\PR2_git.dll
+C:\Users\Валерия\Desktop\ПучРыс\PR2_git\PR2_git\obj\Debug\net6.0-windows\refint\PR2_git.dll
+C:\Users\Валерия\Desktop\ПучРыс\PR2_git\PR2_git\obj\Debug\net6.0-windows\PR2_git.pdb
+C:\Users\Валерия\Desktop\ПучРыс\PR2_git\PR2_git\obj\Debug\net6.0-windows\PR2_git.genruntimeconfig.cache
+C:\Users\Валерия\Desktop\ПучРыс\PR2_git\PR2_git\obj\Debug\net6.0-windows\ref\PR2_git.dll
